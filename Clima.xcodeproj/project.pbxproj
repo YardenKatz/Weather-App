@@ -17,6 +17,7 @@
 		C2085C6D24B66A1500804AB9 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2085C6C24B66A1400804AB9 /* WeatherManager.swift */; };
 		C25ADAEA24BDCB8400D6DA2D /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25ADAE924BDCB8400D6DA2D /* WeatherData.swift */; };
 		C2D5E7102506AADC00C33F6F /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2D5E70F2506AADC00C33F6F /* WeatherModel.swift */; };
+		C2D5E7142506C82600C33F6F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C2D5E7132506C82600C33F6F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C2085C6C24B66A1400804AB9 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		C25ADAE924BDCB8400D6DA2D /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		C2D5E70F2506AADC00C33F6F /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		C2D5E7132506C82600C33F6F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		ADAA27A4231BBFAF00365194 = {
 			isa = PBXGroup;
 			children = (
+				C2D5E7132506C82600C33F6F /* .gitignore */,
 				ADAA27CD231BC87F00365194 /* README.md */,
 				ADAA27AF231BBFAF00365194 /* Clima */,
 				ADAA27AE231BBFAF00365194 /* Products */,
@@ -161,6 +164,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2D5E7142506C82600C33F6F /* .gitignore in Resources */,
 				ADAA27CE231BC87F00365194 /* README.md in Resources */,
 				ADAA27BD231BBFB300365194 /* LaunchScreen.storyboard in Resources */,
 				ADAA27BA231BBFB300365194 /* Assets.xcassets in Resources */,
